@@ -20,12 +20,17 @@ export class Database {
   }
 
   insert(table, data) {
-    if(Array.isArray(this.#database[table])) {
+    if (Array.isArray(this.#database[table])) {
       this.#database[table].push(data)
     } else {
       this.#database[table] = [data]
     }
 
     this.#persist()
+  }
+
+  select(table) {
+    let data = this.#database[table] ?? []
+    return data
   }
 }
