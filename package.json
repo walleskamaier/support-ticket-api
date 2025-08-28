@@ -1,0 +1,13 @@
+{
+  "name": "api-fundamentals",
+  "version": "1.0.0",
+  "description": "API for support ticket management",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Walleska Maier",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.0"
+}
