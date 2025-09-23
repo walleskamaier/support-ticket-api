@@ -1,1 +1,103 @@
-{"tickets":[{"id":"6b7b912a-e6a8-45fc-b66e-cc1214a53a80","equipment":"Iphone","description":"Celular não liga","user_name":"Walleska Maier","status":"open","created_at":"2025-08-28T12:57:35.784Z","updated_at":"2025-08-28T12:57:35.784Z"},{"id":"b310723e-2fa8-49f8-89a3-ed916514e6d3","equipment":"Teclado","description":"Tecla de espaço não funciona","user_name":"João Pedro","status":"open","created_at":"2025-08-28T13:23:14.642Z","updated_at":"2025-08-28T13:23:14.642Z"}]}
+{
+  "tickets": [
+    {
+      "id": "6b7b912a-e6a8-45fc-b66e-cc1214a53a80",
+      "equipment": "Iphone",
+      "description": "Celular não liga",
+      "user_name": "Walleska Maier",
+      "status": "closed",
+      "created_at": "2025-08-28T12:57:35.784Z",
+      "updated_at": "2025-08-28T12:57:35.784Z"
+    },
+    {
+      "id": "b310723e-2fa8-49f8-89a3-ed916514e6d3",
+      "equipment": "Teclado",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "closed",
+      "created_at": "2025-08-28T13:23:14.642Z",
+      "updated_at": "2025-08-28T13:23:14.642Z"
+    },
+    {
+      "id": "daa0de6c-d107-4fa4-ba55-8525f80a51e8",
+      "equipment": "Teclado",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-08-28T14:55:41.591Z",
+      "updated_at": "2025-08-28T14:55:41.591Z"
+    },
+    {
+      "id": "67d11018-e64c-4151-a8b6-924e7544fdaa",
+      "equipment": "Teclado",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-08-28T14:57:20.799Z",
+      "updated_at": "2025-08-28T14:57:20.800Z"
+    },
+    {
+      "id": "dcc1bf14-a2ae-4bd8-b799-d8bd78c1f0d2",
+      "equipment": "Teclado",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-09-17T18:00:48.030Z",
+      "updated_at": "2025-09-17T18:00:48.030Z"
+    },
+    {
+      "id": "ab36a74a-362a-48a8-98a8-c470ae59b5c2",
+      "equipment": "Mouse",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-09-17T18:01:07.768Z",
+      "updated_at": "2025-09-17T18:01:07.768Z"
+    },
+    {
+      "id": "b1768202-3702-4108-a46c-85dbb3c2e122",
+      "equipment": "Monitor",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-09-19T00:12:27.025Z",
+      "updated_at": "2025-09-19T00:12:27.025Z"
+    },
+    {
+      "id": "f803a1a1-fe0a-4f61-8d5b-197c3a11542c",
+      "equipment": "Monitor",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-09-19T00:14:30.118Z",
+      "updated_at": "2025-09-19T00:14:30.118Z"
+    },
+    {
+      "id": "e7ac66db-c8d3-493b-936c-8c95495bef0a",
+      "equipment": "Monitor",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-09-19T00:23:55.889Z",
+      "updated_at": "2025-09-19T00:23:55.889Z"
+    },
+    {
+      "id": "1029a405-a7d5-446a-aa1c-d84a5dbecc1c",
+      "equipment": "Monitor",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2025-09-19T00:32:36.369Z",
+      "updated_at": "2025-09-19T00:32:36.369Z"
+    },
+    {
+      "id": "6b84d9d4-b03d-48d5-984b-c1d7c40f032f",
+      "equipment": "Fone de ouvido",
+      "description": "Tecla de espaço não funciona",
+      "user_name": "Walleska Maier",
+      "status": "open",
+      "created_at": "2025-09-19T00:57:39.649Z",
+      "updated_at": "2025-09-19T00:57:39.649Z"
+    }
+  ]
+}
