@@ -2,12 +2,11 @@
   "tickets": [
     {
       "id": "6b7b912a-e6a8-45fc-b66e-cc1214a53a80",
-      "equipment": "Iphone",
-      "description": "Celular não liga",
+      "equipment": "Teste",
       "user_name": "Walleska Maier",
       "status": "closed",
       "created_at": "2025-08-28T12:57:35.784Z",
-      "updated_at": "2025-08-28T12:57:35.784Z"
+      "updated_at": "2025-09-24T01:48:48.656Z"
     },
     {
       "id": "b310723e-2fa8-49f8-89a3-ed916514e6d3",
